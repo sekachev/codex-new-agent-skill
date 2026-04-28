@@ -1,0 +1,3 @@
+display_name: Codex New Agent
+short_description: Scaffold adaptive Codex agents
+default_prompt: Create a new adaptive Codex agent workspace for my project.

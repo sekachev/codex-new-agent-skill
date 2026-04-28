@@ -1,0 +1,5 @@
+# Project-local Codex config.
+project_root_markers = [".git", "AGENTS.md"]
+
+[features]
+codex_hooks = true
